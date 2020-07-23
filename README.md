@@ -1,4 +1,4 @@
-#CollegeMate
+#CollegeMate-college utility app
 
 Smart Work trumps Hard Work , and with this motive we present our app CollegeMate which will help students efficiently maintain their schedule , assignments and let them keep track track of their
 belongings , work and attendace efficiently.
